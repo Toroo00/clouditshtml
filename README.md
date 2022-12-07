@@ -1,5 +1,3 @@
 # clouditshtml
-
 Salve Prof Slepera sono DemonLaSushi :}
-
-Ciao a tutti
+questo è un progetto condiviso
